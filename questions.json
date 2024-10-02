@@ -1,0 +1,74 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "Find the value of x, y, and z in the given figure below.",
+      "options": [
+          "x = 60°, y = 100° and z = 40°",
+          "x = 70°, y = 100° and z = 30°",
+          "x = 80°, y = 100° and z = 50°",
+          "x = 90°, y = 90° and z = 60°"
+      ],
+      "correct": 2,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "Find the value of x, y, and z in the given figure.",
+      "options": [
+          "x = 60°, y = 40° and z = 30°",
+          "x = 90°, y = 50° and z = 40°",
+          "x = 80°, y = 50° and z = 50°",
+          "x = 70°, y = 40° and z = 30°"
+      ],
+      "correct": 1,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "Find the value of x, y, and z in the given figure below.",
+      "options": [
+          "x = 40°, y = 30° and z = 110°",
+          "x = 30°, y = 30° and z = 100°",
+          "x = 50°, y = 40° and z = 90°",
+          "x = 60°, y = 30° and z = 80°"
+      ],
+      "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "The angles of a triangle are arranged in ascending order of magnitude. If the difference between two consecutive angles is 10°, find the three angles.",
+      "options": [
+          "40°, 50°, 70°",
+          "30°, 40°, 50°",
+          "60°, 70°, 80°",
+          "50°, 60°, 70°"
+      ],
+      "correct": 3,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "The angles of a triangle are in the ratio 5:6:7. Find the smallest angle.",
+      "options": [
+          "40°",
+          "60°",
+          "50°",
+          "30°"
+      ],
+      "correct": 2,
+      "img": "./assests/images/5.jpg"
+  },
+  {
+      "questionNo": "Q6",
+      "question": "If one angle of a triangle is 60° and the other two angles are in the ratio 1:2, find the angles.",
+      "options": [
+          "40° and 50°",
+          "50° and 60°",
+          "30° and 70°",
+          "40° and 80°"
+      ],
+      "correct": 3,
+      "img": "./assests/images/6.jpg"
+  }
+]
